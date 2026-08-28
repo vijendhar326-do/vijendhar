@@ -1,0 +1,6 @@
+{
+  "name": "GraniteTrack Pro",
+  "description": "Commercial-grade Granite Stone Transportation & Fleet Management SaaS platform for managing tons, trucks, drivers, fuel, daily accounts, GPS tracking, billing, and profit & loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
